@@ -1,0 +1,13 @@
+{
+    "name": "myComOrg1 workflow",
+    "description": "myComOrg1 hello starter workflow",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
