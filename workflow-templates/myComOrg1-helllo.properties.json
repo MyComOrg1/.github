@@ -3,7 +3,7 @@
     "description": "myComOrg1 hello starter workflow",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Go","Continuous integration", "Dockerfile"
     ],
     "filePatterns": [
         "package.json$",
