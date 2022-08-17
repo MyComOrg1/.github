@@ -1,6 +1,6 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
+    "name": "MyComOrg1 Organization Workflow",
+    "description": "MyComOrg1 Organization CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
         "Go"
