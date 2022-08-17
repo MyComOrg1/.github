@@ -1,1 +1,13 @@
-s
+{
+    "name": "myComOrg1 workflow",
+    "description": "myComOrg1 hello starter workflow",
+    "iconName": "example-icon",
+    "categories": [
+        "Go","Continuous integration", "Dockerfile"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
